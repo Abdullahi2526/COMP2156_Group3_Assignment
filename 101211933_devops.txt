@@ -1,0 +1,4 @@
+Information about George Brown College:
+- Located in Toronto, Canada.
+- Offers a variety of programs, including DevOps and System Administration.
+- Known for hands-on learning and strong industry connections.
