@@ -3,3 +3,4 @@ Importance of DevOps in Software Development Lifecycle (SDLC):
 - Reduces human error and ensures consistent results.
 - Enhances collaboration between development and operations teams.
 - Speeds up the delivery of high-quality software to customers.
+- makes team work easier than ever before
