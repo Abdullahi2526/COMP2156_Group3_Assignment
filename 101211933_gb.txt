@@ -2,4 +2,4 @@ Information about COMP 2156 - DevOps for System Administration:
 - Focuses on continuous integration (CI) and deployment (CD).
 - Covers tools such as Git, GitHub, and CI/CD pipelines.
 - Prepares students for real-world automation and system administration tasks.
-- makes stduents Job ready
+- makes stduents Job readyTesting GitHub Actions CI
