@@ -12,5 +12,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Clean Git environment
+        run: |
+          sudo rm -rf .git
+          git init
+
       - name: Run a test
         run: echo "CI/CD Pipeline is working successfully!"
