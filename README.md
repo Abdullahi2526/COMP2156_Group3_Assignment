@@ -5,6 +5,7 @@ Leader: Abdullahi Amir (101211933) - GitHub: https://github.com/Abdullahi2526
 Member: Kaleab Alemseged (101490270) - GitHub: https://github.com/Kalrog6858
 Member: Yanet Solomon (101431459) - GitHub: https://github.com/yanet22-gif
 Member: Golovan Maxim (101494233) - GitHub: https://github.com/MaxGolovan
+Member: Abdullahi Musse (101395215) - Github: https://github.com/Amusse6
 
 Project Description
 This repository contains our group assignment for the COMP2156 DevOps for System Administration course. Our focus is on understanding collaborative Git workflows, implementing effective branching strategies, and integrating CI/CD practices.
